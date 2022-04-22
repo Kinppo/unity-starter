@@ -1795,3 +1795,569 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.019146 seconds.
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/Packages/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/Packages/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/Packages/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/Packages/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Mouaad\Desktop\Unity\Unity Starter\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image C:\Users\Mouaad\Desktop\Unity\Unity Starter\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.29 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/Packages/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/Packages/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Mono: successfully reloaded assembly
+- Completed reload, in  2.639 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2640ms)
+		BeginReloadAssembly (256ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (96ms)
+		EndReloadAssembly (2189ms)
+			LoadAssemblies (182ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (979ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (90ms)
+			SetupLoadedEditorAssemblies (825ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (31ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (210ms)
+				ProcessInitializeOnLoadAttributes (407ms)
+				ProcessInitializeOnLoadMethodAttributes (167ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 14.06 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5445 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 48 unused Assets / (0.7 MB). Loaded Objects now: 6072.
+Memory consumption went from 209.0 MB to 208.3 MB.
+Total: 11.528600 ms (FindLiveObjects: 0.899000 ms CreateObjectMapping: 0.900500 ms MarkObjects: 8.721500 ms  DeleteObjects: 1.004400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 69138.264313 seconds.
+  path: Assets/NiceVibrations/Demos/DemoAssets/RegularPresetsDemo/Sprites/RegularPresetsIcons.png
+  artifactKey: Guid(fe42c8b526e77e54ab91d0590272d9e8) Importer(-1,00000000000000000000000000000000)
+Start importing Assets/NiceVibrations/Demos/DemoAssets/RegularPresetsDemo/Sprites/RegularPresetsIcons.png using Guid(fe42c8b526e77e54ab91d0590272d9e8) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '3c4d868320eed4baa0c61283f6ce5e65') in 0.456717 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.018715 seconds.
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/Packages/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/Packages/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/Packages/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/Packages/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Mouaad\Desktop\Unity\Unity Starter\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image C:\Users\Mouaad\Desktop\Unity\Unity Starter\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.40 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/Packages/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/Packages/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Mono: successfully reloaded assembly
+- Completed reload, in  2.135 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2137ms)
+		BeginReloadAssembly (196ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (61ms)
+		EndReloadAssembly (1779ms)
+			LoadAssemblies (159ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (517ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (83ms)
+			SetupLoadedEditorAssemblies (913ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (28ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (174ms)
+				ProcessInitializeOnLoadAttributes (484ms)
+				ProcessInitializeOnLoadMethodAttributes (217ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 11.14 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5445 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 48 unused Assets / (0.7 MB). Loaded Objects now: 6076.
+Memory consumption went from 209.0 MB to 208.3 MB.
+Total: 11.093400 ms (FindLiveObjects: 1.053700 ms CreateObjectMapping: 1.248000 ms MarkObjects: 7.641800 ms  DeleteObjects: 1.148100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.019697 seconds.
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/Packages/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/Packages/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/Packages/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/Packages/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Mouaad\Desktop\Unity\Unity Starter\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image C:\Users\Mouaad\Desktop\Unity\Unity Starter\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.45 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/Packages/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/Packages/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Mono: successfully reloaded assembly
+- Completed reload, in  2.139 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2140ms)
+		BeginReloadAssembly (295ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (19ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (94ms)
+		EndReloadAssembly (1656ms)
+			LoadAssemblies (213ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (635ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (77ms)
+			SetupLoadedEditorAssemblies (698ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (27ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (180ms)
+				ProcessInitializeOnLoadAttributes (360ms)
+				ProcessInitializeOnLoadMethodAttributes (123ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 9.34 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5415 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 76 unused Assets / (0.7 MB). Loaded Objects now: 6050.
+Memory consumption went from 208.2 MB to 207.6 MB.
+Total: 10.389800 ms (FindLiveObjects: 1.055500 ms CreateObjectMapping: 1.059300 ms MarkObjects: 7.574300 ms  DeleteObjects: 0.697100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.023518 seconds.
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/Packages/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/Packages/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/Packages/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/Packages/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Mouaad\Desktop\Unity\Unity Starter\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image C:\Users\Mouaad\Desktop\Unity\Unity Starter\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/Packages/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/Packages/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Mono: successfully reloaded assembly
+- Completed reload, in  1.920 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1921ms)
+		BeginReloadAssembly (218ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (63ms)
+		EndReloadAssembly (1533ms)
+			LoadAssemblies (165ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (521ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (72ms)
+			SetupLoadedEditorAssemblies (729ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (26ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (156ms)
+				ProcessInitializeOnLoadAttributes (406ms)
+				ProcessInitializeOnLoadMethodAttributes (131ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 8.64 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5415 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 47 unused Assets / (0.7 MB). Loaded Objects now: 6053.
+Memory consumption went from 208.1 MB to 207.4 MB.
+Total: 11.468400 ms (FindLiveObjects: 1.215700 ms CreateObjectMapping: 1.512300 ms MarkObjects: 8.097000 ms  DeleteObjects: 0.640400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.023524 seconds.
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/Packages/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/Packages/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+ArgumentException: An item with the same key has already been added. Key: 00000000000000000000000000000000
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <6073cf49ed704e958b8a66d540dea948>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <6073cf49ed704e958b8a66d540dea948>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x0001c] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00043] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector) [0x00000] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.LoadingAssemblyDefinition.SetAllCustomScriptAssemblyReferenceJsonsContents (System.String[] paths, System.String[] contents) [0x00172] in <780782bc035845f9909cebbd4c983ae3>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:LogException(Exception)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:EmitExceptionsAsErrors(Exception[])
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:SetAllCustomScriptAssemblyReferenceJsons(String[], String[])
+
+ArgumentException: An item with the same key has already been added. Key: 00000000000000000000000000000000
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <6073cf49ed704e958b8a66d540dea948>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <6073cf49ed704e958b8a66d540dea948>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x0001c] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00043] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector) [0x00000] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.LoadingAssemblyDefinition.SetAllCustomScriptAssemblyReferenceJsonsContents (System.String[] paths, System.String[] contents) [0x00172] in <780782bc035845f9909cebbd4c983ae3>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:LogException(Exception)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:EmitExceptionsAsErrors(Exception[])
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:SetAllCustomScriptAssemblyReferenceJsons(String[], String[])
+
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/Packages/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/Packages/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+ArgumentException: An item with the same key has already been added. Key: 00000000000000000000000000000000
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <6073cf49ed704e958b8a66d540dea948>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <6073cf49ed704e958b8a66d540dea948>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x0001c] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00043] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector) [0x00000] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.LoadingAssemblyDefinition.SetAllCustomScriptAssemblyReferenceJsonsContents (System.String[] paths, System.String[] contents) [0x00172] in <780782bc035845f9909cebbd4c983ae3>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:LogException(Exception)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:EmitExceptionsAsErrors(Exception[])
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:SetAllCustomScriptAssemblyReferenceJsons(String[], String[])
+
+ArgumentException: An item with the same key has already been added. Key: 00000000000000000000000000000000
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <6073cf49ed704e958b8a66d540dea948>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <6073cf49ed704e958b8a66d540dea948>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x0001c] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00043] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector) [0x00000] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.LoadingAssemblyDefinition.SetAllCustomScriptAssemblyReferenceJsonsContents (System.String[] paths, System.String[] contents) [0x00172] in <780782bc035845f9909cebbd4c983ae3>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:LogException(Exception)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:EmitExceptionsAsErrors(Exception[])
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:SetAllCustomScriptAssemblyReferenceJsons(String[], String[])
+
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Mouaad\Desktop\Unity\Unity Starter\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image C:\Users\Mouaad\Desktop\Unity\Unity Starter\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.38 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/Packages/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations' already exists (Assets/NiceVibrations/Common/Scripts/NiceVibrations/MoreMountains.NiceVibrations.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Scripts/MoreMountains.NiceVibrations.Rumble.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/Packages/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Demos' already exists (Assets/NiceVibrations/Demos/MoreMountains.NiceVibrations.Demos.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Editor/MoreMountains.NiceVibrations.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Haptics' already exists (Assets/NiceVibrations/Common/Scripts/Haptics/MoreMountains.NiceVibrations.Haptics.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/Packages/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+Assembly with name 'MoreMountains.NiceVibrations.Rumble.Editor' already exists (Assets/NiceVibrations/Common/Scripts/Rumble/Editor/MoreMountains.NiceVibrations.Rumble.Editor.asmdef)
+ArgumentException: An item with the same key has already been added. Key: 00000000000000000000000000000000
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <6073cf49ed704e958b8a66d540dea948>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <6073cf49ed704e958b8a66d540dea948>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x0001c] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00043] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector) [0x00000] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.LoadingAssemblyDefinition.SetAllCustomScriptAssemblyReferenceJsonsContents (System.String[] paths, System.String[] contents) [0x00172] in <780782bc035845f9909cebbd4c983ae3>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:LogException(Exception)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:EmitExceptionsAsErrors(Exception[])
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:SetAllCustomScriptAssemblyReferenceJsons(String[], String[])
+
+ArgumentException: An item with the same key has already been added. Key: 00000000000000000000000000000000
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <6073cf49ed704e958b8a66d540dea948>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <6073cf49ed704e958b8a66d540dea948>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x0001c] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00043] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector) [0x00000] in <1e18c5a6594041c9844bfd0b6618ee4a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.LoadingAssemblyDefinition.SetAllCustomScriptAssemblyReferenceJsonsContents (System.String[] paths, System.String[] contents) [0x00172] in <780782bc035845f9909cebbd4c983ae3>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:LogException(Exception)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:EmitExceptionsAsErrors(Exception[])
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:SetAllCustomScriptAssemblyReferenceJsons(String[], String[])
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.483 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3485ms)
+		BeginReloadAssembly (386ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (95ms)
+		EndReloadAssembly (2806ms)
+			LoadAssemblies (419ms)
+			RebuildTransferFunctionScriptingTraits (27ms)
+			SetupTypeCache (884ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (155ms)
+			SetupLoadedEditorAssemblies (1217ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (41ms)
+				SetLoadedEditorAssemblies (4ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (252ms)
+				ProcessInitializeOnLoadAttributes (550ms)
+				ProcessInitializeOnLoadMethodAttributes (357ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (43ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 11.68 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5391 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 57 unused Assets / (0.7 MB). Loaded Objects now: 6041.
+Memory consumption went from 207.6 MB to 206.9 MB.
+Total: 34.986100 ms (FindLiveObjects: 0.974200 ms CreateObjectMapping: 4.748800 ms MarkObjects: 22.983200 ms  DeleteObjects: 6.276300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
